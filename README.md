@@ -1,4 +1,10 @@
-## Hi there 👋
+# Woodrow J Snow
+
+Hello World!
+
+My name is Woodrow Snow. I am currently a software engineer for Tyler Technologies as well as a BYU Pathways Student. Welcome to my GitHub
+
+## About Me
 
 <!--
 **woodrow-snow/woodrow-snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
